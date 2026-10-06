@@ -1,8 +1,7 @@
-# My Excel Data Analytics Projects
-This repo contains the hands-on projects carried out while taking LukeBarousse's Excel Data Analytics course.
+# Salary Data Dashboard
 
 ## Introduction
-This data jobs salary dashboard was created to help job seekers investigate and have an idea 
+This data jobs salary dashboard was created to help job seekers investigate or have an idea 
 of the salaries being offered for their desired job roles.
 
 ## Dashboard File
